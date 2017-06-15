@@ -1,0 +1,35 @@
+{
+  "name": "tslint-config-standard",
+  "version": "1.0.0",
+  "description": "A TSLint config for DGJoy",
+  "main": "tslint.json",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stackia/tslint-config-dgjoy.git"
+  },
+  "keywords": [
+    "tslint",
+    "config",
+    "typescript",
+    "ts",
+    "dgjoy"
+  ],
+  "author": "Stackia <jsq2627@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stackia/tslint-config-dgjoy/issues"
+  },
+  "homepage": "https://github.com/stackia/tslint-config-dgjoy",
+  "peerDependencies": {
+    "tslint": ">=5.4.3",
+    "typescript": ">=2.3.4"
+  },
+  "dependencies": {
+    "tslint-eslint-rules": "^4.1.1",
+    "tslint-react": "^3.0.0"
+  },
+  "devDependencies": {
+    "tslint": "^5.4.3",
+    "typescript": "^2.3.4"
+  }
+}
