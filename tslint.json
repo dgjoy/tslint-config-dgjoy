@@ -228,9 +228,9 @@
     "jsx-key": true,
     "jsx-no-bind": true,
     "jsx-no-lambda": true,
-    // "jsx-no-multiline-js": false,
+    "jsx-no-multiline-js": false,
     "jsx-no-string-ref": true,
-    // "jsx-use-translation-function": false,
+    "jsx-use-translation-function": false,
     "jsx-self-close": true,
     "jsx-wrap-multiline": true
   }
