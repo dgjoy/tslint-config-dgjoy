@@ -1,6 +1,6 @@
 {
   "name": "tslint-config-dgjoy",
-  "version": "1.0.7",
+  "version": "1.1.0",
   "description": "A TSLint config for DGJoy",
   "main": "tslint.json",
   "repository": {
