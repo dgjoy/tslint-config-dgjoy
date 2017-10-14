@@ -21,15 +21,15 @@
   },
   "homepage": "https://github.com/stackia/tslint-config-dgjoy",
   "peerDependencies": {
-    "tslint": ">=5.4.3",
-    "typescript": ">=2.3.4"
+    "tslint": ">=5.7.0",
+    "typescript": ">=2.5.3"
   },
   "dependencies": {
     "tslint-eslint-rules": "^4.1.1",
-    "tslint-react": "^3.0.0"
+    "tslint-react": "^3.2.0"
   },
   "devDependencies": {
-    "tslint": "^5.5.0",
-    "typescript": "^2.4.1"
+    "tslint": "^5.7.0",
+    "typescript": "^2.5.3"
   }
 }
